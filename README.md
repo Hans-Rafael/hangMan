@@ -5,3 +5,11 @@
 # 2º npm run dev
 # Enjoy.
 ## some screenShots
+<br>
+<img align="center"  alt="pole_empty" src="./src/assets/pole_empty.png" />
+<br>
+<img align="center"  alt="playing" src="./src/assets/playing.png" />
+<br>
+<img align="center"  alt="winer" src="./src/assets/winer.png" />
+<br>
+<img align="center"  alt="Loser" src="./src/assets/Loser.png" />
